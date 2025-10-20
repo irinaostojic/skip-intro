@@ -22,16 +22,12 @@ Etapas del análisis:
 ## 📁 Estructura del repositorio
 
 El repositorio de __Skip Intro__ se organiza en cuatro elementos principales, que reflejan el flujo completo del proyecto: desde la obtención de datos hasta la visualización final en Tableau.
-
-├── Netflix.csv                                    # Dataset original de Netflix
-├── Imdb.csv                                       # Dataset original de IMDb
-└── Netflix Completo Clean.csv                     # Dataset limpio tras el proceso de depuración
-│
-└── Dataflix_14-Oct.ipynb                          # Notebook de análisis exploratorio de datos (EDA)
-│
-└── Trabajo_SKIP_INTRO_20-Oct_VERSION3.twbx        # Documento de Tableau con las visualizaciones finales
-│
-└── README.md                                      # Documento de descripción general del proyecto
+- Netflix.csv                                    # Dataset original de Netflix
+- Imdb.csv                                       # Dataset original de IMDb
+- Netflix Completo Clean.csv                     # Dataset limpio tras el proceso de depuración
+- Dataflix_14-Oct.ipynb                          # Notebook de análisis exploratorio de datos (EDA)
+- Trabajo_SKIP_INTRO_20-Oct_VERSION3.twbx        # Documento de Tableau con las visualizaciones finales
+- README.md                                      # Este documento
 
 ## 🔍 Herramientas utilizadas
 
@@ -65,3 +61,8 @@ El repositorio de __Skip Intro__ se organiza en cuatro elementos principales, qu
     - Por eso, si el algoritmo es hoy el nuevo productor ejecutivo, entender sus patrones es la mejor forma de volver a contar historias.
 
 Y esa fue la misión de __Skip Intro__: traducir los datos en _inspiración creativa_.
+
+## 💾 Visualización
+
+🔗 Ver Dashboard en Tableau Public:
+https://public.tableau.com/views/Trabajo_SKIP_INTRO_15-Oct_Graficas_17609890496650/PORTADA?:language=es-ES&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link

@@ -21,7 +21,7 @@ Etapas del análisis:
 
 ## 📁 Estructura del repositorio
 
-El repositorio de __Skip Intro__ se organiza en cuatro elementos principales, que reflejan el flujo completo del proyecto: desde la obtención de datos hasta la visualización final en Tableau.
+El repositorio de __Skip Intro__ se organiza en cinco elementos principales, que reflejan el flujo completo del proyecto: desde la obtención de datos hasta la visualización final en Tableau.
 - Netflix.csv                                    # Dataset original de Netflix
 - Imdb.csv                                       # Dataset original de IMDb
 - Netflix Completo Clean.csv                     # Dataset limpio tras el proceso de depuración
@@ -33,10 +33,9 @@ El repositorio de __Skip Intro__ se organiza en cuatro elementos principales, qu
 
 - Python / Pandas – Limpieza y preprocesamiento del dataset
 
-- Google Docs – Elaboración de la lectura de gráficas
-
 - Tableau – Visualización interactiva de datos
 
+- Google Docs – Elaboración de la lectura de gráficas
 
 ## 🧭 Principales hallazgos
 

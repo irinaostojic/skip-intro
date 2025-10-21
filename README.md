@@ -26,7 +26,7 @@ El repositorio de __Skip Intro__ se organiza en cinco elementos principales, que
 - Imdb.csv                                       # Dataset original de IMDb
 - Netflix Completo Clean.csv                     # Dataset limpio tras el proceso de depuración
 - Dataflix_14-Oct.ipynb                          # Notebook de análisis exploratorio de datos (EDA)
-- Trabajo_SKIP_INTRO_20-Oct_VERSION3.twbx        # Documento de Tableau con las visualizaciones finales
+- Trabajo_SKIP_INTRO_FINAL.twbx                  # Documento de Tableau con las visualizaciones finales
 - README.md                                      # Este documento
 
 ## 🔍 Herramientas utilizadas
